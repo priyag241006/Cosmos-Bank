@@ -86,7 +86,10 @@ Red = Money Out (Debit)
 cosmos-bank/
 ├── cosmos_bank.py      # Main application file
 ├── README.md           # Project documentation
-
+└── screenshots/        # App screenshots
+    ├── login.png
+    ├── dashboard.png
+    └── create_account.png
 ```
 ---
 ⚠️ Important Notes
@@ -95,7 +98,7 @@ No real banking operations are performed
 Aadhaar data is not verified with any government database
 Built for learning and portfolio purposes only
 
- Author
+
+Author
 Priya Gundale
 GitHub: @priyag241006
----
