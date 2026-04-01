@@ -2,9 +2,11 @@ Cosmos Bank 🏦
 A desktop banking application built with Python and Tkinter that simulates real banking operations with a clean dark-themed UI.
 ---
 📸 Screenshots
-![Login Screen](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Create Account](screenshots/create_account.png)
+(![](<screenshots/Screenshot 2026-04-01 185759.png>))
+(![](<screenshots/Screenshot 2026-04-01 185641.png>))
+(![](<screenshots/Screenshot 2026-04-01 185624.png>))
+(![](<screenshots/Screenshot 2026-04-01 185600.png>))
+(![](<screenshots/Screenshot 2026-04-01 185500.png>))
 ---
 📌 About
 Cosmos Bank is a simple desktop banking app that simulates real banking operations like account creation, login, deposits, withdrawals and fund transfers — all with a clean dark-themed UI. Built purely with Python's built-in libraries, no external installations required.
