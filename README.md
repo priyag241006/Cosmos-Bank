@@ -18,7 +18,7 @@ The application is built entirely using Python’s built-in libraries and does n
 <img width="400" height="1012" alt="Screenshot 2026-04-01 185600" src="https://github.com/user-attachments/assets/060cbd70-2604-456a-8ad8-19ccf006c087" />
 <img width="400" height="1011" alt="Screenshot 2026-04-01 185624" src="https://github.com/user-attachments/assets/1c39c2e8-b754-4226-bb87-253693a1d87b" />
 <img width="400" height="1017" alt="Screenshot 2026-04-01 185641" src="https://github.com/user-attachments/assets/e260773b-408a-497f-9314-e122b17f7b57" />
-<img width="400" height="1010" alt="Screenshot 2026-04-01 185759" src="https://github.com/user-attachments/assets/f4834f94-ea2a-4af5-b6cd-ed9f3c7ac279" />
+
 
 
 
