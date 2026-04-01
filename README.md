@@ -12,29 +12,17 @@ The application is built entirely using Python’s built-in libraries and does n
 
 ---
 
-## Screenshots
+## Cosmos Bank App Snapshots:
 
-### Login Screen
+<img width="1347" height="1012" alt="Screenshot 2026-04-01 185500" src="https://github.com/user-attachments/assets/7bd6a75e-9416-47c6-b3b6-4bd88692befb" />
+<img width="1336" height="1012" alt="Screenshot 2026-04-01 185600" src="https://github.com/user-attachments/assets/060cbd70-2604-456a-8ad8-19ccf006c087" />
+<img width="1334" height="1011" alt="Screenshot 2026-04-01 185624" src="https://github.com/user-attachments/assets/1c39c2e8-b754-4226-bb87-253693a1d87b" />
+<img width="1340" height="1017" alt="Screenshot 2026-04-01 185641" src="https://github.com/user-attachments/assets/e260773b-408a-497f-9314-e122b17f7b57" />
+<img width="1329" height="1010" alt="Screenshot 2026-04-01 185759" src="https://github.com/user-attachments/assets/f4834f94-ea2a-4af5-b6cd-ed9f3c7ac279" />
 
-![Login](screenshots/Screenshot%202026-04-01%20185759.png)
 
-### Create Account
 
-![Create Account](screenshots/Screenshot%202026-04-01%20185641.png)
 
-### Dashboard
-
-![Dashboard](screenshots/Screenshot%202026-04-01%20185624.png)
-
-### Transactions
-
-![Transactions](screenshots/Screenshot%202026-04-01%20185600.png)
-
-### Notifications
-
-![Notifications](screenshots/Screenshot%202026-04-01%20185500.png)
-
----
 
 ## Features
 
@@ -87,7 +75,7 @@ python cosmos_bank.py
 
 ---
 
-## Usage
+## How to Use
 
 ### Create Account
 
@@ -136,19 +124,8 @@ python cosmos_bank.py
 cosmos-bank/
 ├── cosmos_bank.py
 ├── README.md
-└── screenshots/
+
 ```
-
----
-
-## Important Notes
-
-* Data is stored in memory and resets when the application closes
-* This is a simulation project and does not perform real banking operations
-* Aadhaar data is not verified with any official system
-
----
-
 ## Author
 
 Priya Gundale
